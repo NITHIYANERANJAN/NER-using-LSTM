@@ -102,12 +102,14 @@ def train_model(model,train_loader,test_loader,loss_fn,optimixer,epochs=10):
 
 ### Training Loss, Validation Loss Vs Iteration Plot
 
-<img width="973" height="627" alt="image" src="https://github.com/user-attachments/assets/0499ac96-2071-4561-8929-b111a629e0a5" />
+<img width="710" height="504" alt="image" src="https://github.com/user-attachments/assets/93377a54-ada0-45f1-acfa-461a8b1b6b52" />
+
 
 
 ### Sample Text Prediction
 
-<img width="614" height="617" alt="image" src="https://github.com/user-attachments/assets/d887614e-6290-4a7a-aeed-f3412dd45807" />
+<img width="428" height="300" alt="image" src="https://github.com/user-attachments/assets/cb22b388-01be-408a-80fc-bd2d9487127c" />
+
 
 
 ## RESULT
